@@ -12,6 +12,7 @@ feats:
     - image: ''
     - video: 'https://www.youtube.com/watch?v=TBD3bl3cC1w'
 ---
+{{< youtube TBD3bl3cC1w >}}
 
 Tempor est exercitation ad qui pariatur quis adipisicing aliquip nisi ea consequat ipsum occaecat. Nostrud consequat ullamco laboris fugiat esse esse adipisicing velit laborum ipsum incididunt ut enim. Dolor pariatur nulla quis fugiat dolore excepteur. Aliquip ad quis aliqua enim do consequat.
 
